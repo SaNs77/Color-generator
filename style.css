@@ -54,19 +54,19 @@ a:hover {
   font-size: 20px;
 }
 
-.btn1 {
+.btn {
   position: absolute;
   top: 70%;
   left: 50%;
+  font-weight: 600;
   transform: translate(-50%, -50%);
-}
-.btn1 .btn {
   text-align: center;
   width: 200px;
-  height: 35px;
+  height: 50px;
   padding: 10px;
-  border-radius: 10px;
+  border-radius: 20px;
   background: skyblue;
+  font-size: 24px;
 }
 
 footer {
@@ -84,6 +84,6 @@ footer {
     height: 100px;
   }
   a {
-    font-size: 10px;
+    font-size: 14px;
   }
 }
